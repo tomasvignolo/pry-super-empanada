@@ -1,0 +1,21 @@
+C:\Users\mec\source\repos\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.exe.config
+C:\Users\mec\source\repos\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.exe
+C:\Users\mec\source\repos\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.pdb
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csprojAssemblyReference.cache
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.Form1.resources
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.Properties.Resources.resources
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.GenerateResource.cache
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.exe
+C:\Users\mec\source\repos\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.pdb
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.exe.config
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.exe
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\bin\Debug\SUPER_EMPANADA.pdb
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.AssemblyReference.cache
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.Form1.resources
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.Properties.Resources.resources
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.GenerateResource.cache
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.csproj.CoreCompileInputs.cache
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.exe
+C:\Users\Luca Bonadero\OneDrive\Escritorio\SUPER_EMPANADA\obj\Debug\SUPER_EMPANADA.pdb
